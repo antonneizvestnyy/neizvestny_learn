@@ -1,1 +1,1 @@
-my first programm! Hello world!s
+Здесь будут мои шаги в развитии IT.
